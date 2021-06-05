@@ -1,0 +1,248 @@
+17:59:14.146: CPU Name: Apple M1
+17:59:14.146: CPU Speed: 2400MHz
+17:59:14.146: Physical Cores: 8, Logical Cores: 8
+17:59:14.146: Physical Memory: 8192MB Total
+17:59:14.146: OS Name: Mac OS X
+17:59:14.146: OS Version: Version 11.4 (Build 20F71)
+17:59:14.147: Kernel Version: 20.5.0
+17:59:14.164: hotkeys-cocoa: Using layout 'com.apple.keylayout.LatinAmerican'
+17:59:14.165: Current Date/Time: 2021-06-05, 17:59:14
+17:59:14.165: Browser Hardware Acceleration: true
+17:59:14.165: Portable mode: false
+17:59:14.312: OBS 27.0.0 (mac)
+17:59:14.312: ---------------------------------
+17:59:14.313: ---------------------------------
+17:59:14.313: audio settings reset:
+17:59:14.313: 	samples per sec: 48000
+17:59:14.313: 	speakers:        2
+17:59:14.315: ---------------------------------
+17:59:14.315: Initializing OpenGL...
+17:59:14.371: Loading up OpenGL on adapter Apple Apple M1
+17:59:14.371: OpenGL loaded successfully, version 4.1 Metal - 71.6.4, shading language 4.10
+17:59:14.464: ---------------------------------
+17:59:14.464: video settings reset:
+17:59:14.464: 	base resolution:   1440x900
+17:59:14.464: 	output resolution: 1440x900
+17:59:14.464: 	downscale filter:  Bicubic
+17:59:14.464: 	fps:               48/1
+17:59:14.464: 	format:            NV12
+17:59:14.464: 	YUV mode:          709/Partial
+17:59:14.464: NV12 texture support not available
+17:59:14.465: Audio monitoring device:
+17:59:14.465: 	name: Por defecto
+17:59:14.465: 	id: default
+17:59:14.465: ---------------------------------
+17:59:14.468: Failed to load 'en-US' text for module: 'decklink-captions.so'
+17:59:14.469: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+17:59:14.479: os_dlopen(libpython3.9.dylib->libpython3.9.dylib): dlopen(libpython3.9.dylib, 257): image not found
+17:59:14.479: 
+17:59:14.479: [Python] Could not load library: libpython3.9.dylib
+17:59:15.736: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+17:59:15.737: No blackmagic support
+17:59:15.751: [mac-virtualcam] version=1.3.0
+17:59:15.870: [VideoToolbox encoder]: Adding VideoToolbox H264 encoders
+17:59:15.874: [obs-browser]: Version 2.14.3
+17:59:15.874: [obs-browser]: CEF Version 85.0.0-HEAD.2273+g93b66a0+chromium-85.0.4183.121
+17:59:16.039: os_dlopen(/Applications/VLC.app/Contents/MacOS/lib/libvlccore.dylib->/Applications/VLC.app/Contents/MacOS/lib/libvlccore.dylib): dlopen(/Applications/VLC.app/Contents/MacOS/lib/libvlccore.dylib, 257): no suitable image found.  Did find:
+17:59:16.039: 	/Applications/VLC.app/Contents/MacOS/lib/libvlccore.dylib: mach-o, but wrong architecture
+17:59:16.039: 	/Applications/VLC.app/Contents/MacOS/lib/libvlccore.dylib: stat() failed with errno=17
+17:59:16.039: 
+17:59:16.039: Couldn't find VLC installation, VLC video source disabled
+17:59:16.040: ---------------------------------
+17:59:16.040:   Loaded Modules:
+17:59:16.040:     vlc-video.so
+17:59:16.040:     text-freetype2.so
+17:59:16.040:     rtmp-services.so
+17:59:16.040:     obs-x264.so
+17:59:16.040:     obs-vst.so
+17:59:16.040:     obs-transitions.so
+17:59:16.040:     obs-outputs.so
+17:59:16.040:     obs-filters.so
+17:59:16.040:     obs-ffmpeg.so
+17:59:16.040:     obs-browser.so
+17:59:16.040:     mac-vth264.so
+17:59:16.040:     mac-virtualcam.so
+17:59:16.040:     mac-syphon.so
+17:59:16.040:     mac-decklink.so
+17:59:16.040:     mac-capture.so
+17:59:16.040:     mac-avcapture.so
+17:59:16.040:     image-source.so
+17:59:16.040:     frontend-tools.so
+17:59:16.040:     decklink-ouput-ui.so
+17:59:16.040:     decklink-captions.so
+17:59:16.040:     coreaudio-encoder.so
+17:59:16.040: ---------------------------------
+17:59:16.040: ==== Startup complete ===============================================
+17:59:16.079: All scene data cleared
+17:59:16.079: ------------------------------------------------
+17:59:16.166: coreaudio: device 'BlackHole 2ch' initialized
+17:59:16.166: [Loaded global audio device]: 'Audio del escritorio'
+17:59:16.178: coreaudio: device 'Micrófono de MacBook Air' initialized
+17:59:16.178: [Loaded global audio device]: 'Mic/Aux'
+17:59:16.207: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Audio del escritorio)
+17:59:16.207: 
+17:59:16.531: coreaudio: device 'Micrófono de MacBook Air' initialized
+17:59:16.580: IOS Cam: Could not initialize device with unique ID '00008030-001D64C20A98402E'
+17:59:16.581: Failed to create source 'Captura de pantalla 2'!
+17:59:16.588: cam mac: Selected device 'FaceTime HD Camera'
+17:59:16.590: cam mac: Using preset 1280x720
+17:59:16.648: coreaudio: device 'BlackHole 2ch' initialized
+17:59:17.125: Switched to scene '4 - timers'
+17:59:17.126: ------------------------------------------------
+17:59:17.126: Loaded scenes:
+17:59:17.126: - scene '1 - Jitsi Cam':
+17:59:17.126:     - source: 'audio escritorio' (coreaudio_output_capture)
+17:59:17.126:     - source: 'mic' (coreaudio_input_capture)
+17:59:17.126:     - source: 'Captura de pantalla 2' (display_capture)
+17:59:17.126:     - source: 'Captura de pantalla' (display_capture)
+17:59:17.126:     - source: 'Equipos' (group)
+17:59:17.126:         - source: 'Team_4' (browser_source)
+17:59:17.126:             - filter: 'Recortar/Acolchar' (crop_filter)
+17:59:17.126:         - source: 'Team_3' (browser_source)
+17:59:17.126:             - filter: 'Recortar/Acolchar' (crop_filter)
+17:59:17.126:         - source: 'Team_2' (browser_source)
+17:59:17.126:             - filter: 'Recortar/Acolchar' (crop_filter)
+17:59:17.126:         - source: 'Team_1' (browser_source)
+17:59:17.126:             - filter: 'Recortar/Acolchar' (crop_filter)
+17:59:17.126:     - source: 'Chat general' (browser_source)
+17:59:17.126:         - filter: 'Recortar/Acolchar' (crop_filter)
+17:59:17.126:     - source: 'filtros' (group)
+17:59:17.126:         - source: 'chat twitch' (browser_source)
+17:59:17.126:         - source: 'Alertas Twitch' (browser_source)
+17:59:17.126:         - source: 'contador viewers' (browser_source)
+17:59:17.126:     - source: 'logo' (image_source)
+17:59:17.126: - scene '2 - Jitsi reunion':
+17:59:17.126:     - source: 'mic' (coreaudio_input_capture)
+17:59:17.126:     - source: 'base' (group)
+17:59:17.126:         - source: 'wallpaper' (image_source)
+17:59:17.126:             - filter: 'Recortar/Acolchar' (crop_filter)
+17:59:17.126:         - source: 'logo' (image_source)
+17:59:17.126:         - source: 'sc2 logo' (image_source)
+17:59:17.126:     - source: 'chat invitados' (browser_source)
+17:59:17.126:         - filter: 'Recortar/Acolchar' (crop_filter)
+17:59:17.126:     - source: 'Chat general' (browser_source)
+17:59:17.126:         - filter: 'Recortar/Acolchar' (crop_filter)
+17:59:17.126:     - source: 'filtros' (group)
+17:59:17.126:         - source: 'chat twitch' (browser_source)
+17:59:17.126:         - source: 'Alertas Twitch' (browser_source)
+17:59:17.126:         - source: 'contador viewers' (browser_source)
+17:59:17.126: - scene '3 - invitados':
+17:59:17.126:     - source: 'mic' (coreaudio_input_capture)
+17:59:17.126:     - source: 'audio escritorio' (coreaudio_output_capture)
+17:59:17.126:     - source: 'Captura de pantalla 2' (display_capture)
+17:59:17.126:     - source: 'Captura de pantalla' (display_capture)
+17:59:17.126:     - source: 'filtros' (group)
+17:59:17.126:         - source: 'chat twitch' (browser_source)
+17:59:17.126:         - source: 'Alertas Twitch' (browser_source)
+17:59:17.126:         - source: 'contador viewers' (browser_source)
+17:59:17.126:     - source: 'invitados' (group)
+17:59:17.126:         - source: 'inv_4' (browser_source)
+17:59:17.126:             - filter: 'Recortar/Acolchar' (crop_filter)
+17:59:17.126:         - source: 'inv_3' (browser_source)
+17:59:17.126:             - filter: 'Recortar/Acolchar' (crop_filter)
+17:59:17.126:         - source: 'inv_2' (browser_source)
+17:59:17.126:             - filter: 'Recortar/Acolchar' (crop_filter)
+17:59:17.126:         - source: 'Inv_1' (browser_source)
+17:59:17.126:             - filter: 'Recortar/Acolchar' (crop_filter)
+17:59:17.126:     - source: 'chat invitados' (browser_source)
+17:59:17.126:         - filter: 'Recortar/Acolchar' (crop_filter)
+17:59:17.126:     - source: 'logo' (image_source)
+17:59:17.126: - scene '4 - timers':
+17:59:17.126:     - source: 'base' (group)
+17:59:17.126:         - source: 'wallpaper' (image_source)
+17:59:17.126:             - filter: 'Recortar/Acolchar' (crop_filter)
+17:59:17.126:         - source: 'logo' (image_source)
+17:59:17.126:         - source: 'sc2 logo' (image_source)
+17:59:17.126:     - source: 'clips' (browser_source)
+17:59:17.126:     - source: 'filtros' (group)
+17:59:17.126:         - source: 'chat twitch' (browser_source)
+17:59:17.126:         - source: 'Alertas Twitch' (browser_source)
+17:59:17.126:         - source: 'contador viewers' (browser_source)
+17:59:17.126:     - source: 'timer' (text_ft2_source_v2)
+17:59:17.126:         - filter: 'Clave Luma' (luma_key_filter)
+17:59:17.126:         - filter: 'Imagen máscara/mezcla' (mask_filter)
+17:59:17.126:         - filter: 'Corrección de color' (color_filter)
+17:59:17.126:     - source: 'VOLVEMOS' (text_ft2_source_v2)
+17:59:17.126:         - filter: 'Clave Luma' (luma_key_filter)
+17:59:17.126:         - filter: 'Imagen máscara/mezcla' (mask_filter)
+17:59:17.126:         - filter: 'Corrección de color' (color_filter)
+17:59:17.126: - scene 'ios cam':
+17:59:17.126:     - source: 'audio escritorio' (coreaudio_output_capture)
+17:59:17.126:     - source: 'Captura de pantalla 2' (display_capture)
+17:59:17.126:     - source: 'Captura de pantalla' (display_capture)
+17:59:17.126:     - source: 'IOS Cam' (av_capture_input)
+17:59:17.126: - scene 'Mac Cam':
+17:59:17.126:     - source: 'mic' (coreaudio_input_capture)
+17:59:17.126:     - source: 'audio escritorio' (coreaudio_output_capture)
+17:59:17.126:     - source: 'Captura de pantalla 2' (display_capture)
+17:59:17.126:     - source: 'Captura de pantalla' (display_capture)
+17:59:17.126:     - source: 'cam mac' (av_capture_input)
+17:59:17.126:     - source: 'filtros' (group)
+17:59:17.126:         - source: 'chat twitch' (browser_source)
+17:59:17.127:         - source: 'Alertas Twitch' (browser_source)
+17:59:17.127:         - source: 'contador viewers' (browser_source)
+17:59:17.127:     - source: 'logo' (image_source)
+17:59:17.127: ------------------------------------------------
+17:59:17.136: [Media Source 'stinger alfa disolve (Stinger)']: settings:
+17:59:17.136: 	input:                   /Users/gabrielmedina/Drive google/Juegos y weas/Viciosos/logo blender/logo animado alfa disolve 0003.avi
+17:59:17.136: 	input_format:            (null)
+17:59:17.136: 	speed:                   100
+17:59:17.136: 	is_looping:              no
+17:59:17.136: 	is_hw_decoding:          yes
+17:59:17.136: 	is_clear_on_media_end:   yes
+17:59:17.136: 	restart_on_activate:     yes
+17:59:17.136: 	close_when_inactive:     no
+17:59:17.136: [Media Source 'stinger alfa test (Stinger)']: settings:
+17:59:17.136: 	input:                   /Users/gabrielmedina/Drive google/Juegos y weas/Viciosos/logo blender/0001-0096.avi
+17:59:17.136: 	input_format:            (null)
+17:59:17.136: 	speed:                   100
+17:59:17.136: 	is_looping:              no
+17:59:17.136: 	is_hw_decoding:          yes
+17:59:17.136: 	is_clear_on_media_end:   yes
+17:59:17.136: 	restart_on_activate:     yes
+17:59:17.136: 	close_when_inactive:     no
+17:59:17.136: MP: Failed to open media: '/Users/gabrielmedina/Drive google/Juegos y weas/Viciosos/logo blender/0001-0096.avi'
+17:59:17.137: [Media Source 'Stinger (Stinger)']: settings:
+17:59:17.137: 	input:                   /Users/gabrielmedina/Drive google/Juegos y weas/Viciosos/logo blender/logo animado 0002.avi
+17:59:17.137: 	input_format:            (null)
+17:59:17.137: 	speed:                   100
+17:59:17.137: 	is_looping:              no
+17:59:17.137: 	is_hw_decoding:          yes
+17:59:17.137: 	is_clear_on_media_end:   yes
+17:59:17.137: 	restart_on_activate:     yes
+17:59:17.137: 	close_when_inactive:     no
+17:59:19.949: obs-browser: Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.youtube.com') does not match the recipient window's origin ('https://streamlabs.com'). (source: https://www.youtube.com/s/player/5d56cf74/www-widgetapi.vflset/www-widgetapi.js:731)
+17:59:28.220: Settings changed (outputs)
+17:59:28.220: ------------------------------------------------
+17:59:37.074: [VideoToolbox streaming_h264: 'h264']: session created with hardware encoding
+17:59:37.103: [VideoToolbox streaming_h264: 'h264']: settings:
+17:59:37.103: 	vt_encoder_id          com.apple.videotoolbox.videoencoder.ave.avc
+17:59:37.103: 	bitrate:               2500 (kbps)
+17:59:37.103: 	fps_num:               48
+17:59:37.103: 	fps_den:               1
+17:59:37.103: 	width:                 1440
+17:59:37.103: 	height:                900
+17:59:37.103: 	keyint:                2 (s)
+17:59:37.103: 	limit_bitrate:         off
+17:59:37.103: 	rc_max_bitrate:        2500 (kbps)
+17:59:37.103: 	rc_max_bitrate_window: 1.500000 (s)
+17:59:37.103: 	hw_enc:                on
+17:59:37.103: 	profile:               default
+17:59:37.103: 
+17:59:37.118: [CoreAudio AAC: 'adv_stream_aac']: settings:
+17:59:37.118: 	mode:          AAC
+17:59:37.118: 	bitrate:       160
+17:59:37.118: 	sample rate:   48000
+17:59:37.118: 	cbr:           on
+17:59:37.118: 	output buffer: 1536
+17:59:37.119: [rtmp stream: 'adv_stream'] Connecting to RTMP URL rtmp://sao.contribute.live-video.net/app...
+17:59:39.013: [rtmp stream: 'adv_stream'] Connection to rtmp://sao.contribute.live-video.net/app successful
+17:59:39.021: ==== Streaming Start ===============================================
+18:00:54.116: [rtmp stream: 'adv_stream'] User stopped the stream
+18:00:54.116: Output 'adv_stream': stopping
+18:00:54.116: Output 'adv_stream': Total frames output: 3601
+18:00:54.116: Output 'adv_stream': Total drawn frames: 3695 (3696 attempted)
+18:00:54.117: Output 'adv_stream': Number of lagged frames due to rendering lag/stalls: 1 (0.0%)
+18:00:54.119: ==== Streaming Stop ================================================
+18:01:51.901: Settings changed (outputs)
+18:01:51.902: ------------------------------------------------
